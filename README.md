@@ -23,7 +23,7 @@ O sistema oferece uma interface de menu completa que simula as operações essen
 
 * **Python 3.x:** Linguagem principal do projeto.
 * **Estruturas de Dados:** Listas compostas (matrizes em memória) para armazenamento dinâmico dos dados.
-* **Controle de Fluxo e Exceções:** Blocos `try/except` e estruturas condicionais (`if/elif/else`) para validação rigorosa de dados.
+* **Controle de Fluxo e Exceções:** Blocos `try/except` e estruturas condicionais (`if/else`) para validação rigorosa de dados.
 
 ---
 
